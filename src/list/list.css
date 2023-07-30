@@ -1,0 +1,28 @@
+.list {
+	position: absolute;
+	border-radius: 5px;
+	background-color: #ffffff;
+	display: flex;
+	flex-direction: column;
+	width: 300px;
+	padding: 10px;
+	top: 54%;
+}
+
+.list > li {
+	display: flex;
+	flex-direction: column;
+	padding: 10px;
+	font-size: 0.9rem;
+}
+
+.list > li:hover {
+	background-color: #f0f0f0;
+}
+
+@media screen and (max-width: 425px) {
+	.list {
+		width: 250px;
+		top: 59%;
+	}
+}
