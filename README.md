@@ -2,10 +2,10 @@
 
 ## Key Features
 
-It's a simple dropdown component.
-On hovering of the button, it show the drop down items.
-It shows Yes or Probably Not , when user select one of it closes the dropdown.
-The dropdown component receives the items from array to display the items in the list.
+1. It's a simple dropdown component.
+2. On hovering of the button, it show the drop down items.
+3. It shows Yes or Probably Not , when user select one of it closes the dropdown.
+4. The dropdown component receives the items from array to display the items in the list.
 
 ## Getting Started
 
